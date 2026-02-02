@@ -4,10 +4,11 @@ title:  "Classes in Python"
 date:   2026-02-02 10:57:00 +0500
 categories: Classes Python OOP 
 ---
-
+**Huzaifa (learned from Prof. Nauman)**
+Many real-world problems can be modeled through classes. Any "object" in the world belongs to a class.
 # Modeling Real-World Problems with Classes
 
-Many real-world problems can be modeled through classes. Any "object" in the world belongs to a class. Every class has some properties and functions.
+Every class has some properties and functions.
 
 ## Example of a Class (for understanding)
 ```python
