@@ -2,7 +2,7 @@
 layout: post
 title:  "Access Modifiers, setters and getters"
 author: "discreetso (M.Huzaifa)"
-date:   2026-02-02 10:57:00 +0500
+date:   2026-02-25 11:57:00 +0500
 categories: Classes Access Modifiers setters getters OOP 
 ---
 Whenever we have a member/field of a class, which can have some constraints. We make those members hidden and access it through the methods, which can contain logic called setters and getters.  

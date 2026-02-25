@@ -2,7 +2,7 @@
 layout: post
 title:  "File Handling In C- Character & Binary"
 author: "discreetso (M.Huzaifa)"
-date:   2026-02-02 10:57:00 +0500
+date:   2026-02-25 09:57:00 +0500
 categories: Classes Python OOP 
 ---
 ### The Role of Buffers in Stream Flow
