@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Classes in Python"
-author: "discreetso (M.Huzaifa), student of recluze (prof. M Nauman)"
+author: "discreetso (M.Huzaifa)"
 date:   2026-02-02 10:57:00 +0500
 categories: Classes Python OOP 
 ---

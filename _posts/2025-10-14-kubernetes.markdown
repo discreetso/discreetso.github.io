@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Kubernetes"
+author: "discreetso (M.Huzaifa)"
 date:   2025-10-14 16:00:04 +0500
 categories: kubernetes tutorial
 ---

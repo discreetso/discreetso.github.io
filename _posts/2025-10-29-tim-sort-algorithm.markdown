@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Tim Sort Algorithm"
+author: "discreetso (M.Huzaifa)"
 date:   2025-10-29 15:29:04 +0500
 categories: Algorithm
 ---
