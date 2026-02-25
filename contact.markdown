@@ -4,8 +4,8 @@ title: Contact
 permalink: /contact/
 ---
 
-## twitter
-contact me on twitter using jekyllrb
+## linkedin
+[LinkedIn](https://www.linkedin.com/in/muhammad-huzaifa-93878a278/)
 
 ## Github
-contact me on github using discreetso
+[Github](https://github.com/discreetso)
