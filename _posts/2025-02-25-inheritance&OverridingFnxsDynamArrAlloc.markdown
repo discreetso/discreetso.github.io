@@ -8,8 +8,8 @@ categories: Classes Inheritance Overring functions OOP Dynamic array allocation
 Inheritance establishes an is-a relationship between a parent and a child. For example, a **Triangle**  is-a **Shape**. 
 
 **Shape**
- the parent, also called a superclass, parent class, base class.
-**Triangle**
+ the parent, also called a superclass, parent class, base class.  
+ **Triangle**  
  the child, also called a subclass or derived class.
 
 ```c

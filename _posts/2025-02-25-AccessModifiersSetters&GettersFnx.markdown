@@ -5,8 +5,8 @@ author: "discreetso (M.Huzaifa)"
 date:   2026-02-02 10:57:00 +0500
 categories: Classes Access Modifiers setters getters OOP 
 ---
-Whenever we have a member/field of a class, which can have some constraints. We make those members hidden and access it through the methods, which can contain logic called setters and getters.
-A **setter function** is a function that sets the value of a hidden variable for us.
+Whenever we have a member/field of a class, which can have some constraints. We make those members hidden and access it through the methods, which can contain logic called setters and getters.  
+A **setter function** is a function that sets the value of a hidden variable for us.  
 A **getter function** is a function that gets the value for us.
 
 ```c
@@ -57,9 +57,9 @@ int main() {
 
 ## Access modifiers
 To achieve **Encapsulation** or **Data hiding**, we make use of access modifiers. Access modifiers are three:
-* **private** means just this class.
-* **protected** means this class and it's children.
-* **public** means everybody.
+- **private** means just this class.
+- **protected** means this class and it's children.
+- **public** means everybody.
 
 ```c
 //Access modifiers or Access specifiers: public, private and protected
@@ -108,8 +108,8 @@ FacultyMember::FacultyMember() {
 
 void FacultyMember::set_pay_rate(int pay_rate) {
   if(pay_rate > 25) {
+      } else {
     this->pay_rate = pay_rate;
-  } else {
     cout << "Pay rate " << pay_rate << " not acceptable, not setting ..." << endl;
   }
 }
