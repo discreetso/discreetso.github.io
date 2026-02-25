@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "File Handling In C- Character & Binary"
+title:  "Inheritance & Overriding functions, Dynamic Array allocation"
 author: "discreetso (M.Huzaifa)"
 date:   2026-02-02 10:57:00 +0500
-categories: Classes Python OOP 
+categories: Classes Inheritance Overring functions OOP Dynamic array allocation 
 ---
 Inheritance establishes an is-a relationship between a parent and a child. For example, a **Triangle**  is-a **Shape**. 
 
